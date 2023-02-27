@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mercvre&theme=swift&show_icons=true)
+<p align="center">
+  <a href="https://github.com/mercvre/mercvre">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mercvre&theme=swift&layout=compact" />
+  </a>
+  <a href="https://github.com/mercvre/mercvre">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mercvre&theme=swift&show_icons=true" />
+  </a>
+</p>
 
 <!--
 **mercvre/mercvre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
