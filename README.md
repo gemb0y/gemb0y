@@ -5,7 +5,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mercvre&theme=swift&layout=compact&hide=javascript,html,css,scss" />
   </a>
   <a href="https://github.com/mercvre/mercvre">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mercvre&theme=swift&show_icons=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mercvre&theme=swift&show_icons=true&hide=prs" />
   </a>
 </p>
 
