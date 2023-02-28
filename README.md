@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://github.com/mercvre/mercvre">
-    <img align="top" src="https://github-readme-stats-mercvre.vercel.app/api/top-langs/?username=mercvre&theme=swift&layout=compact&hide=html,css,scss,qmake&langs_count=8&hide_progress=true" />
+    <img align="top" src="https://github-readme-stats-mercvre.vercel.app/api/top-langs/?username=mercvre&theme=swift&layout=compact&hide=html,css,scss,qmake&langs_count=10&hide_progress=true" />
   </a>
   <a href="https://github.com/mercvre/mercvre">
     <img align="top" src="https://github-readme-stats-mercvre.vercel.app/api?username=mercvre&theme=swift&show_icons=true&hide=prs" />
