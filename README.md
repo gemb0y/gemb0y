@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <p align="left">
-  <a href="https://github.com/mercvre/mercvre">
+  <a href="https://github.com/0ranga/0ranga">
     <img align="top" src="https://github-readme-stats-mercvre.vercel.app/api/top-langs/?username=mercvre&theme=swift&layout=compact&hide=html,css,scss,qmake&langs_count=10&hide_progress=true" />
   </a>
-  <a href="https://github.com/mercvre/mercvre">
-    <img align="top" src="https://github-readme-stats-mercvre.vercel.app/api?username=mercvre&theme=swift&show_icons=true&hide=prs" />
+  <a href="https://github.com/0ranga/0ranga">
+    <img align="top" src="https://github-readme-stats-mercvre.vercel.app/api?username=0ranga&theme=swift&show_icons=true&hide=prs" />
   </a>
 </p>
 
