@@ -1,6 +1,5 @@
-### Hi there 👋
-
 ```
+$ 0ranga
    ______                            __               _____      _            __  _      __ 
   / ____/___  ____ ___  ____  __  __/ /____  _____   / ___/_____(_)__  ____  / /_(_)____/ /_
  / /   / __ \/ __ `__ \/ __ \/ / / / __/ _ \/ ___/   \__ \/ ___/ / _ \/ __ \/ __/ / ___/ __/
@@ -28,6 +27,10 @@
                                                                                             
                                                                                            
 ```
+
+Visitors count
+
+![Visitor Count](https://profile-counter.glitch.me/0ranga/count.svg)
 
 <!--
 **mercvre/mercvre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
