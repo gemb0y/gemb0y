@@ -1,13 +1,33 @@
 ### Hi there 👋
 
-<p align="left">
-  <a href="https://github.com/0ranga/0ranga">
-    <img align="top" src="https://github-readme-stats-mercvre.vercel.app/api/top-langs/?username=0ranga&theme=swift&layout=compact&hide=html,css,scss,qmake,cmake,makefile,c,objective-c&langs_count=10&hide_progress=true" />
-  </a>
-  <a href="https://github.com/0ranga/0ranga">
-    <img align="top" src="https://github-readme-stats-mercvre.vercel.app/api?username=0ranga&theme=swift&show_icons=true&hide=prs" />
-  </a>
-</p>
+```
+   ______                            __               _____      _            __  _      __ 
+  / ____/___  ____ ___  ____  __  __/ /____  _____   / ___/_____(_)__  ____  / /_(_)____/ /_
+ / /   / __ \/ __ `__ \/ __ \/ / / / __/ _ \/ ___/   \__ \/ ___/ / _ \/ __ \/ __/ / ___/ __/
+/ /___/ /_/ / / / / / / /_/ / /_/ / /_/  __/ /      ___/ / /__/ /  __/ / / / /_/ (__  ) /_  
+\____/\____/_/ /_/ /_/ .___/\__,_/\__/\___/_/      /____/\___/_/\___/_/ /_/\__/_/____/\__/  
+                    /_/                                                                     
+    __  ___           _      _                                                              
+   /  |/  /_  _______(_)____(_)___ _____                                                    
+  / /|_/ / / / / ___/ / ___/ / __ `/ __ \                                                   
+ / /  / / /_/ (__  ) / /__/ / /_/ / / / /                                                   
+/_/  /_/\__,_/____/_/\___/_/\__,_/_/ /_/                                                    
+                                                                                            
+    ____            _                                                                       
+   / __ \___  _____(_)___ _____  ___  _____                                                 
+  / / / / _ \/ ___/ / __ `/ __ \/ _ \/ ___/                                                 
+ / /_/ /  __(__  ) / /_/ / / / /  __/ /                                                     
+/_____/\___/____/_/\__, /_/ /_/\___/_/                                                      
+                  /____/                                                                    
+    __    _ ____     __                     __                                              
+   / /   (_) __/__  / /___  ____  ____ _   / /__  ____ __________  ___  _____               
+  / /   / / /_/ _ \/ / __ \/ __ \/ __ `/  / / _ \/ __ `/ ___/ __ \/ _ \/ ___/               
+ / /___/ / __/  __/ / /_/ / / / / /_/ /  / /  __/ /_/ / /  / / / /  __/ /                   
+/_____/_/_/  \___/_/\____/_/ /_/\__, /  /_/\___/\__,_/_/  /_/ /_/\___/_/                    
+                               /____/                                                       
+                                                                                            
+                                                                                           
+```
 
 <!--
 **mercvre/mercvre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
