@@ -26,9 +26,10 @@ $ 0ranga
                                /____/                                                       
 ```
 
-Visitors count
-
-![Visitor Count](https://profile-counter.glitch.me/0ranga/count.svg)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/0ranga/count.svg" />
+</p>
 
 <!--
 **mercvre/mercvre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
